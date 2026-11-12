@@ -1,0 +1,64 @@
+name: Correção de conteúdo
+description: Informação errada, desatualizada, sem fonte ou com possível viés em uma edição ou página.
+title: "[Correção]: "
+labels: ["correção editorial"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Levamos a precisão a sério. Nossos princípios editoriais pedem que fato, declaração, proposta, rumor e análise sejam sempre diferenciados, com prioridade para fontes oficiais e sem induzir posição política.
+
+        Se você encontrou algo que não segue esses princípios, conte para a gente.
+
+  - type: input
+    id: link
+    attributes:
+      label: Link do conteúdo
+      description: Endereço da edição, matéria ou página com o problema.
+      placeholder: https://kingsnewsletter.com/...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de problema
+      options:
+        - Informação incorreta
+        - Informação desatualizada
+        - Dado ou indicador errado
+        - Fonte ausente ou inadequada
+        - Rumor ou opinião apresentado como fato
+        - Possível viés político ou partidário
+        - Erro de português ou digitação
+        - Outro
+    validations:
+      required: true
+
+  - type: textarea
+    id: trecho
+    attributes:
+      label: Trecho em questão
+      description: Copie o trecho exatamente como foi publicado.
+      render: text
+    validations:
+      required: true
+
+  - type: textarea
+    id: correcao
+    attributes:
+      label: Qual seria a informação correta?
+      description: Explique o que está errado e como deveria estar.
+    validations:
+      required: true
+
+  - type: textarea
+    id: fontes
+    attributes:
+      label: Fontes
+      description: Links para fontes que confirmem a correção, de preferência oficiais (órgãos públicos, documentos, dados primários).
+      placeholder: |
+        - https://www.ibge.gov.br/...
+        - https://www.bcb.gov.br/...
+    validations:
+      required: true
