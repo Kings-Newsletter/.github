@@ -1,6 +1,6 @@
 # Como contribuir
 
-Obrigado pelo interesse em contribuir com o ecossistema King's Newsletter! Este guia vale para todos os repositórios da organização, a menos que um projeto tenha o seu próprio `CONTRIBUTING.md`.
+Obrigado pelo interesse em contribuir com o King's Newsletter! Este guia vale para todos os repositórios da organização, a menos que um projeto tenha o seu próprio `CONTRIBUTING.md`.
 
 ## Formas de contribuir
 

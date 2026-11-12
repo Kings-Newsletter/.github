@@ -5,65 +5,46 @@
 ### Notícias do Brasil e do mundo com o contexto por trás delas.
 
 <a href="https://kingsnewsletter.com"><img src="https://img.shields.io/badge/KING%27S-NEWSLETTER-064E46?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Y1QzUxOCIgZD0iTTIuNSA3LjUgNyAxMWw1LTcgNSA3IDQuNS0zLjVMMTkuNSAxOGgtMTV6Ii8%2BPHJlY3QgeD0iNC41IiB5PSIxOS41IiB3aWR0aD0iMTUiIGhlaWdodD0iMiIgcng9Ii41IiBmaWxsPSIjRjVDNTE4Ii8%2BPC9zdmc%2B&labelColor=0B1F1C" alt="King's Newsletter"></a>
-<img src="https://img.shields.io/badge/KING%27S-ECONOMY-0A6B5F?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Y1QzUxOCIgZD0iTTIuNSA3LjUgNyAxMWw1LTcgNSA3IDQuNS0zLjVMMTkuNSAxOGgtMTV6Ii8%2BPHJlY3QgeD0iNC41IiB5PSIxOS41IiB3aWR0aD0iMTUiIGhlaWdodD0iMiIgcng9Ii41IiBmaWxsPSIjRjVDNTE4Ii8%2BPC9zdmc%2B&labelColor=0B1F1C" alt="King's Economy">
-<img src="https://img.shields.io/badge/KING%27S-SPORTS-0D8070?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Y1QzUxOCIgZD0iTTIuNSA3LjUgNyAxMWw1LTcgNSA3IDQuNS0zLjVMMTkuNSAxOGgtMTV6Ii8%2BPHJlY3QgeD0iNC41IiB5PSIxOS41IiB3aWR0aD0iMTUiIGhlaWdodD0iMiIgcng9Ii41IiBmaWxsPSIjRjVDNTE4Ii8%2BPC9zdmc%2B&labelColor=0B1F1C" alt="King's Sports">
 
-<img src="https://img.shields.io/badge/Feito%20no-Brasil-009C3B?style=flat-square&labelColor=002776" alt="Feito no Brasil">
+<img src="https://img.shields.io/badge/feito%20no-Brasil-009C3B?style=flat-square&labelColor=002776" alt="Feito no Brasil">
 <img src="https://img.shields.io/badge/idioma-pt--BR-064E46?style=flat-square" alt="Idioma: pt-BR">
 <img src="https://img.shields.io/badge/edições-diárias-F5C518?style=flat-square&labelColor=3D3D3D" alt="Edições diárias">
 <img src="https://img.shields.io/badge/conteúdo-apartidário-1F2328?style=flat-square" alt="Conteúdo apartidário">
-
-<sub><b>Notícias</b> · <b>Economia</b> · <b>Esportes</b></sub>
 
 </div>
 
 <br>
 
-## 👑 Sobre nós
+## Sobre nós
 
-O **King's Newsletter** é um ecossistema de informação independente, feito no Brasil e para brasileiros. Organizamos as notícias que importam e explicamos o contexto por trás delas, com linguagem acessível, dados verificáveis e compromisso com a imparcialidade.
+O **King's Newsletter** é uma iniciativa independente de informação, feita no Brasil e para brasileiros. Organizamos as notícias que importam e explicamos o contexto por trás delas, com linguagem acessível, dados verificáveis e compromisso com a imparcialidade.
 
-## 📰 Nossos produtos
+## Princípios editoriais
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/KING%27S-NEWSLETTER-064E46?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Y1QzUxOCIgZD0iTTIuNSA3LjUgNyAxMWw1LTcgNSA3IDQuNS0zLjVMMTkuNSAxOGgtMTV6Ii8%2BPHJlY3QgeD0iNC41IiB5PSIxOS41IiB3aWR0aD0iMTUiIGhlaWdodD0iMiIgcng9Ii41IiBmaWxsPSIjRjVDNTE4Ii8%2BPC9zdmc%2B&labelColor=0B1F1C" alt="King's Newsletter">
-      <p>Resumo diário das principais notícias do Brasil e do mundo, direto ao ponto e com contexto.</p>
-      <sub>✓ Edições diárias<br>✓ Arquivo pesquisável<br>✓ Envio por e-mail</sub>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/KING%27S-ECONOMY-0A6B5F?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Y1QzUxOCIgZD0iTTIuNSA3LjUgNyAxMWw1LTcgNSA3IDQuNS0zLjVMMTkuNSAxOGgtMTV6Ii8%2BPHJlY3QgeD0iNC41IiB5PSIxOS41IiB3aWR0aD0iMTUiIGhlaWdodD0iMiIgcng9Ii41IiBmaWxsPSIjRjVDNTE4Ii8%2BPC9zdmc%2B&labelColor=0B1F1C" alt="King's Economy">
-      <p>Economia brasileira explicada do zero, para quem quer entender sem precisar de jargão.</p>
-      <sub>✓ Indicadores ao vivo<br>✓ Dados de mercado da B3<br>✓ Notícias econômicas diárias</sub>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/KING%27S-SPORTS-0D8070?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Y1QzUxOCIgZD0iTTIuNSA3LjUgNyAxMWw1LTcgNSA3IDQuNS0zLjVMMTkuNSAxOGgtMTV6Ii8%2BPHJlY3QgeD0iNC41IiB5PSIxOS41IiB3aWR0aD0iMTUiIGhlaWdodD0iMiIgcng9Ii41IiBmaWxsPSIjRjVDNTE4Ii8%2BPC9zdmc%2B&labelColor=0B1F1C" alt="King's Sports">
-      <p>Cobertura esportiva completa, do resultado ao detalhe de cada time e atleta.</p>
-      <sub>✓ Jogos do dia e placar ao vivo<br>✓ Tabelas e classificações<br>✓ Fichas de times e jogadores</sub>
-    </td>
-  </tr>
-</table>
+| Compromisso | Na prática |
+| :--- | :--- |
+| **Transparência** | Diferenciamos sempre fato, declaração, proposta, rumor e análise |
+| **Fontes oficiais** | Priorizamos órgãos públicos, documentos e dados primários |
+| **Imparcialidade** | Não induzimos posição política nem favorecemos candidatos ou partidos |
 
-## 🧭 Princípios editoriais
-
-| | Compromisso | Na prática |
-| :---: | :--- | :--- |
-| 🔎 | **Transparência** | Diferenciamos sempre fato, declaração, proposta, rumor e análise |
-| 🏛️ | **Fontes oficiais** | Priorizamos órgãos públicos, documentos e dados primários |
-| ⚖️ | **Imparcialidade** | Não induzimos posição política nem favorecemos candidatos ou partidos |
-
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Cloudflare%20R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
-## 🤝 Como contribuir
+## Como contribuir
 
 Encontrou um erro, tem uma sugestão ou quer colaborar com código? Toda ajuda é bem-vinda.
 
@@ -74,5 +55,5 @@ Encontrou um erro, tem uma sugestão ou quer colaborar com código? Toda ajuda �
 <br>
 
 <div align="center">
-  <sub>© 2026 King's Newsletter · Parte do ecossistema King's Letter</sub>
+  <sub>© 2026 King's Newsletter</sub>
 </div>
