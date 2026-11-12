@@ -1,0 +1,85 @@
+name: Relatar um problema
+description: Algo não funciona como deveria no site, no app ou na newsletter.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por ajudar a melhorar o King's Newsletter!
+        Antes de abrir, confira se já não existe uma issue sobre o mesmo problema.
+
+        **Encontrou uma falha de segurança?** Não abra uma issue pública. Escreva para contact@kingsnewsletter.com.
+
+  - type: dropdown
+    id: projeto
+    attributes:
+      label: Projeto
+      description: Em qual projeto o problema aconteceu?
+      options:
+        - King's Newsletter
+        - King's Economy
+        - King's Sports
+        - Não sei / outro
+    validations:
+      required: true
+
+  - type: textarea
+    id: descricao
+    attributes:
+      label: O que aconteceu?
+      description: Descreva o problema de forma clara e objetiva.
+      placeholder: Ao abrir a edição de hoje, a página fica em branco.
+    validations:
+      required: true
+
+  - type: textarea
+    id: passos
+    attributes:
+      label: Como reproduzir
+      description: Passo a passo para chegar ao problema.
+      placeholder: |
+        1. Acesse '...'
+        2. Clique em '...'
+        3. Role até '...'
+        4. Veja o erro
+    validations:
+      required: true
+
+  - type: textarea
+    id: esperado
+    attributes:
+      label: O que você esperava que acontecesse?
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Link da página
+      description: Se o problema estiver em uma página específica, cole o endereço aqui.
+      placeholder: https://kingsnewsletter.com/...
+
+  - type: textarea
+    id: ambiente
+    attributes:
+      label: Ambiente
+      description: Dispositivo, sistema e navegador (ou cliente de e-mail, se for na newsletter).
+      placeholder: |
+        - Dispositivo: iPhone 15
+        - Sistema: iOS 19
+        - Navegador / app: Safari, Gmail...
+
+  - type: textarea
+    id: evidencias
+    attributes:
+      label: Capturas de tela ou registros
+      description: Arraste imagens para cá ou cole mensagens de erro do console.
+
+  - type: checkboxes
+    id: confirmacao
+    attributes:
+      label: Confirmação
+      options:
+        - label: Procurei nas issues existentes e não encontrei uma sobre este problema.
+          required: true
